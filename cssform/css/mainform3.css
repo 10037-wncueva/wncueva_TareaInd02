@@ -1,0 +1,27 @@
+.custom-link {
+  /* Estilos de fondo */
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  
+  /* Estilos de borde */
+  border: 1px solid #ccc;
+  
+  /* Estilos de cursor */
+  cursor: pointer;
+  
+  /* Estilos de tamaño y fuente */
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.custom-link:hover {
+  /* Estilos al pasar el cursor por encima */
+  background-color: #ddd;
+  color: #555;
+}
+h2{
+  text-align: center;
+}
